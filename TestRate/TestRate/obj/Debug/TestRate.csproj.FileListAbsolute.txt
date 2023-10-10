@@ -1,0 +1,13 @@
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Debug\TestRate.exe.config
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Debug\TestRate.exe
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Debug\TestRate.pdb
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Debug\RateProj.dll
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Debug\RateProj.pdb
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.Form1.resources
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.Properties.Resources.resources
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.csproj.GenerateResource.cache
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.csproj.CopyComplete
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.exe
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Debug\TestRate.pdb

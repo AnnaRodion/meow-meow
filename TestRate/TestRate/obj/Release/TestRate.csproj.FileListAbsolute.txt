@@ -1,0 +1,14 @@
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Release\TestRate.exe.config
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Release\TestRate.exe
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Release\TestRate.pdb
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.Form1.resources
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.Properties.Resources.resources
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.csproj.GenerateResource.cache
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.csproj.CopyComplete
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.exe
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.pdb
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Release\Rates.dll
+C:\Users\Анна\source\repos\TestRate\TestRate\bin\Release\Rates.pdb
+C:\Users\Анна\source\repos\TestRate\TestRate\obj\Release\TestRate.Form2.resources

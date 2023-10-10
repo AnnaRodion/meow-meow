@@ -1,0 +1,5 @@
+C:\Users\Анна\source\repos\Rates\Rates\bin\Debug\Rates.dll
+C:\Users\Анна\source\repos\Rates\Rates\bin\Debug\Rates.pdb
+C:\Users\Анна\source\repos\Rates\Rates\obj\Debug\Rates.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\Rates\Rates\obj\Debug\Rates.dll
+C:\Users\Анна\source\repos\Rates\Rates\obj\Debug\Rates.pdb
